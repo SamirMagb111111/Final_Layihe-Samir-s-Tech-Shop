@@ -1,0 +1,14 @@
+.button_checkout_cart button{
+        width: 262px;
+        height: 58px;
+        outline: none;
+        border: none;
+        background: #ff5a5a;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        margin-left: 300px;
+        margin-top:-200px ;
+        margin-bottom: 50px;
+}
